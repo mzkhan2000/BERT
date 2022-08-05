@@ -30,6 +30,6 @@ https://academic.oup.com/jamia/article/29/7/1208/6554005
 Geoscience Domain-specific BERT model is recently trained for domain specific downstream NLP task. 
 Geoscience Language Models: https://github.com/NRCan/geoscience_language_models
 
-SciBERT
+SciBERT:
 This is the pretrained model presented in SciBERT: A Pretrained Language Model for Scientific Text, which is a BERT model trained on scientific text.
 https://huggingface.co/allenai/scibert_scivocab_uncased
