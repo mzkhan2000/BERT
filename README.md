@@ -15,6 +15,8 @@ RoBERTa from huggingface: https://huggingface.co/docs/transformers/model_doc/rob
 
 KeyBERT from: https://github.com/MaartenGr/KeyBERT
 
+DocBERT: BERT for Document Classification: https://paperswithcode.com/paper/docbert-bert-for-document-classification
+
 SBERT pretrained model or Sentence-transformers Pretrained Models from: https://www.sbert.net/docs/pretrained_models.html
 
 Domain-specific BERT models:
