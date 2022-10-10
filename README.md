@@ -19,6 +19,7 @@ DocBERT: BERT for Document Classification: https://paperswithcode.com/paper/docb
 
 SBERT pretrained model or Sentence-transformers Pretrained Models from: https://www.sbert.net/docs/pretrained_models.html
 
+BioBERT: 
 Domain-specific BERT models:
 BioBERT is a pre-trained biomedical language representation model for biomedical text mining
 Ref: https://academic.oup.com/bioinformatics/article/36/4/1234/5566506
